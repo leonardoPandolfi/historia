@@ -22,7 +22,7 @@ var conteudoB1 = `<img src='imagens/i.jpg' /> <h2>Meio</h2>  <p>${nomePerso} est
 
 Chegando perto avistaram Lex, parado em um circulo, flutuando em cima da cidade.</p>
 
-<button onclick='carregarConteudo(conteudoC1)'>Final 1</button> <button onclick='carregarConteudo(conteudoC2)'>Final 2</button>`;
+<button onclick='carregarConteudo(conteudoC1)'>Final 1</button> <button onclick='carregarConteudo(conteudoC2)'>Final 2</button> <button onclick='carregarConteudo(conteudoA)'>Voltar</button>`;
 
 var conteudoC1 = `<img src='imagens/e.png' /> <h2>Final</h2>
  <p>- ${nomePerso}, ele fez aquilo da última vez e acabou com a primeira cidade, faça alguma coisa. Disse Rox.<br><br>
@@ -90,7 +90,7 @@ ${nomePerso} correu até Lex e pegou em suas pernas, girou ele e jogou longe, e 
 
 - Ele é exatamente isso, um guardião dos robos.</p> 
 
-<button onclick='carregarConteudo(conteudoC3)'>Final 1</button> <button onclick='carregarConteudo(conteudoC4)'>Final 2</button>`;
+<button onclick='carregarConteudo(conteudoC3)'>Final 1</button> <button onclick='carregarConteudo(conteudoC4)'>Final 2</button> </button> <button onclick='carregarConteudo(conteudoA)'>Voltar</button>` ;
 
 var conteudoC3 = `<img src='imagens/h.jpg'/> <h2>Final</h2> 
 <p> ${nomePerso} foi andando lentamente até Lex, apontou seu braço para ele e abriu uma lâmina. <br><br>

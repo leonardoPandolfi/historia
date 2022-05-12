@@ -14,10 +14,12 @@ body{
 
 #conteudo {
   text-align: center;
+  margin-top: 2px;
 }
 p {
   text-align: left;
   margin-left: 8px;
+  font-family: 'Courier New', Courier, monospace;
  
 }
 img {
@@ -111,4 +113,13 @@ button {
   transition-duration: 0.4s;
   cursor: pointer;
   margin-bottom: 15px;
+}
+
+h3{
+  display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    font-size: initial;
+    color: rgb(71, 71, 165);
 }
